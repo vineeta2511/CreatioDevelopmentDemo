@@ -1,0 +1,104 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "376f5c07-b795-492e-bb97-08953c53dcd5"
+        },
+        {
+          "SchemaColumnUId": "008aabe4-a01d-0325-3a40-2fc2fa243472",
+          "Value": "Nagar Nigam"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": "gggg"
+        },
+        {
+          "SchemaColumnUId": "a9e17c25-f4f3-7a4b-9587-97241b1677ab",
+          "Value": 354365.98
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "383aa276-1858-4715-9824-8a0c8975f582"
+        },
+        {
+          "SchemaColumnUId": "008aabe4-a01d-0325-3a40-2fc2fa243472",
+          "Value": "Galaxy"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": "rtrtyt"
+        },
+        {
+          "SchemaColumnUId": "a9e17c25-f4f3-7a4b-9587-97241b1677ab",
+          "Value": 3577.87
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "44816a9a-7aa3-4ef4-af9e-b14fb89fcc92"
+        },
+        {
+          "SchemaColumnUId": "008aabe4-a01d-0325-3a40-2fc2fa243472",
+          "Value": "Nirmal Estate"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": "landarea2"
+        },
+        {
+          "SchemaColumnUId": "a9e17c25-f4f3-7a4b-9587-97241b1677ab",
+          "Value": 678898.00
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "76926392-bca0-468c-a928-1f79a0805c0a"
+        },
+        {
+          "SchemaColumnUId": "008aabe4-a01d-0325-3a40-2fc2fa243472",
+          "Value": "Chinar"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": "tttttt"
+        },
+        {
+          "SchemaColumnUId": "a9e17c25-f4f3-7a4b-9587-97241b1677ab",
+          "Value": 566767.50
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "dcfc0d5e-0cdc-4d88-ae81-e32790d23a81"
+        },
+        {
+          "SchemaColumnUId": "008aabe4-a01d-0325-3a40-2fc2fa243472",
+          "Value": "HIG"
+        },
+        {
+          "SchemaColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
+          "Value": "wwwrwr"
+        },
+        {
+          "SchemaColumnUId": "a9e17c25-f4f3-7a4b-9587-97241b1677ab",
+          "Value": 4367576.86
+        }
+      ]
+    }
+  ]
+}
