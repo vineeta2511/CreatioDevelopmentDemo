@@ -7,6 +7,10 @@
 			<Item Name="LocalizableStrings.addRecord_e0e3utr_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_kftj3hb_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_nurd4q7_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_g3y6d3u_caption.Value" Value="Button" />
+			<Item Name="LocalizableStrings.Button_gs8qn2p_caption.Value" Value="Submit " />
+			<Item Name="LocalizableStrings.Button_pv3w920_caption.Value" Value="Button" />
+			<Item Name="LocalizableStrings.Button_u1iuqnq_caption.Value" Value="Push me!" />
 		</Items>
 	</Group>
 </Resources>
